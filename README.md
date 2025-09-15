@@ -20,6 +20,3 @@ Simple web app that summarizes customer call transcripts and extracts sentiment 
 5. Open:
    http://127.0.0.1:5000/
 
-## Notes
-- Do not commit your real API key. Use .env and .gitignore.
-- test_multiple.py can be used to pre-populate the CSV.
